@@ -10,7 +10,7 @@ People use Luau for programming in ROBLOX because it's the scripting language sp
 We won't go in depth how to install Luau as that should be already easy by going to the `GitHub > Releases > Latest Version > Files`, so we're just going to teach you some basics from the start.
 
 ### Variables:
-In Luau, variables are like containers that store information. They are crucial for holding data that your program can manipulate. Let's break it down:
+Variables are like words which are stored in your brain, They're crucial for holding data that your program can use!<br/>We will show how to use variables below:
 
 * **Declaration:** We can create a variable, you declare it by giving it a name or also known as an Index. Here's an Example:
 
