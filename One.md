@@ -28,7 +28,13 @@ local ExampleDeclaration3 = "Hello, World!"
 g_ExampleDeclaration = "This is a Global"
 ```
 
+> Note: You can also set a Variable to `nil` as a placeholder, but it's always better to initialize with the correct value!
+
+There isn't much to say about Variables so we'll continue to Statements :D
+
 ### Statements:
+Statements is like some of your brain functions, for example the `if` statement would decide if you will speak or not. If it you will you'll open your mouth but if you don't then it'll stay shut! (not a very good example lol)
+
 * Here is the `if`, `else`, `elseif` and `end` statements in use!
 
 ```lua
