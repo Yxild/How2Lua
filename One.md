@@ -9,6 +9,8 @@ People use Luau for programming in ROBLOX because it's the scripting language sp
 # Let's Start!
 We won't go in depth how to install Luau as that should be already easy by going to the `GitHub > Releases > Latest Version > Files`, so we're just going to teach you some basics from the start.
 
+<hr>
+
 ### Variables:
 Variables are like words which are stored in your brain, They're crucial for holding data that your program can use!<br/>We will show how to use variables below:
 
@@ -31,6 +33,8 @@ g_ExampleDeclaration = "This is a Global"
 > Note: You can also set a Variable to `nil` as a placeholder, but it's always better to initialize with the correct value!
 
 There isn't much to say about Variables so we'll continue to Statements :D
+
+<hr>
 
 ### Statements:
 Statements is like some of your brain functions, for example the `if` statement would decide if you will speak or not. If it you will you'll open your mouth but if you don't then it'll stay shut! (not a very good example lol)
@@ -93,6 +97,8 @@ end
 
 These statements are important for your Luau scripts, they allow you to make decisions, repeat actions, and control the execution of your code while also keeping it minimal and small!
 
+<hr>
+
 ### Input & Output:
 We will learn about the I/O for Luau, this isn't difficult and should be pretty easy, for output it should use the function called `print`!
 
@@ -119,6 +125,8 @@ print("Hello, " .. Username .. "!")
 ```
 
 `io.read` basically awaits for some input in a Console, it should return a string by default but you can actually convert it to a number by using the function `tonumber(...)` :)
+
+<hr>
 
 ## This is the end for now :(
 See ya later, hopefully this was easy to read, please give some recommendations on what I should do next, thank you for reading this!
