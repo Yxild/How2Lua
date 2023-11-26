@@ -1,7 +1,7 @@
 ### Warning: This primarily focuses on Luau, this uses OpenAI's ChatGPT for fixing mistakes. 
 
-# How To LuauGuides
-Welcome to my LuauGuide! If you're wondering about Lua, here's a quick overview: Luauis a compact programming language designed for applications, games, and engines. It's especially handy in platforms like ROBLOX, where users can harness Luau to create games within the engine.
+# How To Luau
+Welcome to my Luau Guide! If you're wondering about Lua, here's a quick overview: Luau is a compact programming language designed for applications, games, and engines. It's especially handy in platforms like ROBLOX, where users can harness Luau to create games within the engine.
 
 ## Why use Luau
 People use Luau for programming in ROBLOX because it's the scripting language specifically designed for the platform, making it easier to create games and interactive experiences within the ROBLOX game environment.
